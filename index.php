@@ -13,3 +13,4 @@
      echo $obj->bbb;
    }
  }
+ echo 'Hello World';
